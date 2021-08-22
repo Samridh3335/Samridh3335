@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samridh Patial, aerospace graduate and currently working as Space Mission Engineer at DZH Dynamics.
+- 👋 Hi, I’m Samridh Patial, aerospace postgraduate student currently pursuing masters at Indian Institute of Space Science and Technology.
 - 👀 I’m interested in application development encompassing aeronautical and orbital mechanics domains.
 - 🌱 I’m currently learning Python and MATLAB and introspecting applications in the aforementioned domains.
 - 💞️ I’m looking to collaborate on projects aiming at developing applications and softwares focusing on analysis and visualization.
